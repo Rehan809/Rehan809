@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rehan809
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in Configuration and Monitoring.
+- 🌱 I’m currently learning Networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shaikrrehan91@gmail.com.
 
